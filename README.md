@@ -43,5 +43,5 @@ This project dynamically scrapes mobile device listings from Noon's catalog, han
 ## 📁 Repository Structure
 ```text
 ├── selenium.ipynb          # End-to-end Selenium scraper notebook
-├── جدول بيانات بدون عنوان.xlsx   # Clean extracted dataset (150 products)
+├── noon_mobiles_data.xlsx  # Clean extracted dataset (150 products)
 └── README.md               # Project documentation
